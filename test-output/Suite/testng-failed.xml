@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="loginEmailValue" value="kumaranil@csgroupchd.com"/>
+  <parameter name="loginPasswordValue" value="Pentium@951@"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="Tests.TestAddShipment">
+        <methods>
+          <include name="testWeightLimitByDefault"/>
+          <include name="testPrintetSetUPSaved"/>
+          <include name="testRateCalcWithoutSizeAndWeightDetails"/>
+          <include name="testRecipientInfoNotSavedWithoutName"/>
+          <include name="testValidAddShipment"/>
+          <include name="testValidationOFSaveForLaterTC21"/>
+          <include name="testBlindShipIconFunctionalTC19"/>
+          <include name="setUp"/>
+          <include name="testPrinterOptionsDisplayed"/>
+        </methods>
+      </class> <!-- Tests.TestAddShipment -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<parameter name="loginEmailValue" value="kumaranil@csgroupchd.com"/>
+<parameter name="loginPasswordValue" value="Pentium@951@"/>
+
+  <test name="Test">
+  
+    <classes>
+      <class name="Tests.TestAddShipment"/>  
+ 
+ 
+</classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

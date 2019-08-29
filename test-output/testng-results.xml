@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="8" total="27" passed="19">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1190935" started-at="2019-08-29T08:42:15Z" finished-at="2019-08-29T09:02:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1190935" started-at="2019-08-29T08:42:15Z" finished-at="2019-08-29T09:02:06Z">
+      <class name="Tests.TestAddShipment">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="27980" started-at="2019-08-29T14:12:15Z" finished-at="2019-08-29T14:12:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentButtonIsDisplayedTC14()[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentButtonIsDisplayedTC14" duration-ms="9779" started-at="2019-08-29T14:12:43Z" finished-at="2019-08-29T14:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentButtonIsDisplayedTC14 -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="12798" started-at="2019-08-29T14:12:53Z" finished-at="2019-08-29T14:13:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentIconFunctionalTC15()[pri:1, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentIconFunctionalTC15" duration-ms="9933" started-at="2019-08-29T14:13:06Z" finished-at="2019-08-29T14:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentIconFunctionalTC15 -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="33401" started-at="2019-08-29T14:13:16Z" finished-at="2019-08-29T14:13:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentWithInvalidReferenceNoTC16()[pri:2, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentWithInvalidReferenceNoTC16" duration-ms="22318" started-at="2019-08-29T14:13:49Z" finished-at="2019-08-29T14:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentWithInvalidReferenceNoTC16 -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="16527" started-at="2019-08-29T14:14:11Z" finished-at="2019-08-29T14:14:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentWithValidReferenceNoTC17()[pri:3, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentWithValidReferenceNoTC17" duration-ms="15434" started-at="2019-08-29T14:14:28Z" finished-at="2019-08-29T14:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentWithValidReferenceNoTC17 -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="13207" started-at="2019-08-29T14:14:43Z" finished-at="2019-08-29T14:14:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="blindShipIconDisplayedTC18()[pri:4, instance:Tests.TestAddShipment@5e5792a0]" name="blindShipIconDisplayedTC18" duration-ms="16324" started-at="2019-08-29T14:14:56Z" finished-at="2019-08-29T14:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blindShipIconDisplayedTC18 -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="18525" started-at="2019-08-29T14:15:13Z" finished-at="2019-08-29T14:15:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testBlindShipIconFunctionalTC19()[pri:5, instance:Tests.TestAddShipment@5e5792a0]" name="testBlindShipIconFunctionalTC19" duration-ms="11069" started-at="2019-08-29T14:15:31Z" finished-at="2019-08-29T14:15:42Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='orderNumberReference']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52198}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 73e32fefd8ba3f8b35080b65ce928f30
+*** Element info: {Using=xpath, value=//input[@id='orderNumberReference']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='orderNumberReference']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52198}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 73e32fefd8ba3f8b35080b65ce928f30
+*** Element info: {Using=xpath, value=//input[@id='orderNumberReference']}
+	at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy10.sendKeys(Unknown Source)
+	at Pages.ImportShipmentPage.clickOnBlindShip(ImportShipmentPage.java:195)
+	at Tests.TestAddShipment.testBlindShipIconFunctionalTC19(TestAddShipment.java:113)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBlindShipIconFunctionalTC19 -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="25403" started-at="2019-08-29T14:15:42Z" finished-at="2019-08-29T14:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testValidationOFPrintButtonWithoutDetailsTC20()[pri:6, instance:Tests.TestAddShipment@5e5792a0]" name="testValidationOFPrintButtonWithoutDetailsTC20" duration-ms="24028" started-at="2019-08-29T14:16:08Z" finished-at="2019-08-29T14:16:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidationOFPrintButtonWithoutDetailsTC20 -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="34511" started-at="2019-08-29T14:16:32Z" finished-at="2019-08-29T14:17:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testValidationOFSaveForLaterTC21()[pri:7, instance:Tests.TestAddShipment@5e5792a0]" name="testValidationOFSaveForLaterTC21" duration-ms="83930" started-at="2019-08-29T14:17:06Z" finished-at="2019-08-29T14:18:30Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //span[text()='Shipment Successfully Added'] (tried for 60 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[text()='Shipment Successfully Added'] (tried for 60 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at Tests.TestAddShipment.testValidationOFSaveForLaterTC21(TestAddShipment.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Shipment Successfully Added']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52469}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 79db9a1549c25e6934d850d0f924d1c3
+*** Element info: {Using=xpath, value=//span[text()='Shipment Successfully Added']}
+	at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 26 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidationOFSaveForLaterTC21 -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="27678" started-at="2019-08-29T14:18:30Z" finished-at="2019-08-29T14:18:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentWithoutDetails()[pri:8, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentWithoutDetails" duration-ms="30010" started-at="2019-08-29T14:18:58Z" finished-at="2019-08-29T14:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentWithoutDetails -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="47987" started-at="2019-08-29T14:19:28Z" finished-at="2019-08-29T14:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testWeightLimitByDefault()[pri:9, instance:Tests.TestAddShipment@5e5792a0]" name="testWeightLimitByDefault" duration-ms="20336" started-at="2019-08-29T14:20:16Z" finished-at="2019-08-29T14:20:36Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Add']' (tried for 20 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Add']' (tried for 20 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at Utility.TimeUtil.clickOn(TimeUtil.java:25)
+	at Pages.ImportShipmentPage.clickOnAddShipPlusIcon(ImportShipmentPage.java:121)
+	at Tests.TestAddShipment.testWeightLimitByDefault(TestAddShipment.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Add']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52842}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0352d8a623d3b7cd0c7d79dd1509d68d
+*** Element info: {Using=xpath, value=//span[text()='Add']}
+	at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 28 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWeightLimitByDefault -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="47558" started-at="2019-08-29T14:20:36Z" finished-at="2019-08-29T14:21:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testShippingRateCalIconDisplayedOnAddShipement()[pri:10, instance:Tests.TestAddShipment@5e5792a0]" name="testShippingRateCalIconDisplayedOnAddShipement" duration-ms="23253" started-at="2019-08-29T14:21:24Z" finished-at="2019-08-29T14:21:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShippingRateCalIconDisplayedOnAddShipement -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="21924" started-at="2019-08-29T14:21:47Z" finished-at="2019-08-29T14:22:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testRateCalWithoutWeightAndDimensions()[pri:11, instance:Tests.TestAddShipment@5e5792a0]" name="testRateCalWithoutWeightAndDimensions" duration-ms="16579" started-at="2019-08-29T14:22:09Z" finished-at="2019-08-29T14:22:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRateCalWithoutWeightAndDimensions -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="16609" started-at="2019-08-29T14:22:26Z" finished-at="2019-08-29T14:22:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testRateCalWithoutWeight()[pri:12, instance:Tests.TestAddShipment@5e5792a0]" name="testRateCalWithoutWeight" duration-ms="17346" started-at="2019-08-29T14:22:42Z" finished-at="2019-08-29T14:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRateCalWithoutWeight -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="30459" started-at="2019-08-29T14:23:00Z" finished-at="2019-08-29T14:23:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testRateCalWithoutSize()[pri:13, instance:Tests.TestAddShipment@5e5792a0]" name="testRateCalWithoutSize" duration-ms="19843" started-at="2019-08-29T14:23:30Z" finished-at="2019-08-29T14:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRateCalWithoutSize -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="15181" started-at="2019-08-29T14:23:50Z" finished-at="2019-08-29T14:24:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testRateCalWithOverWeight()[pri:14, instance:Tests.TestAddShipment@5e5792a0]" name="testRateCalWithOverWeight" duration-ms="15927" started-at="2019-08-29T14:24:05Z" finished-at="2019-08-29T14:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRateCalWithOverWeight -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="15073" started-at="2019-08-29T14:24:21Z" finished-at="2019-08-29T14:24:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentWithoutState()[pri:15, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentWithoutState" duration-ms="21177" started-at="2019-08-29T14:24:36Z" finished-at="2019-08-29T14:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentWithoutState -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="17967" started-at="2019-08-29T14:24:57Z" finished-at="2019-08-29T14:25:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentWithoutCity()[pri:16, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentWithoutCity" duration-ms="25793" started-at="2019-08-29T14:25:15Z" finished-at="2019-08-29T14:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentWithoutCity -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="24400" started-at="2019-08-29T14:25:41Z" finished-at="2019-08-29T14:26:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentWithoutZip()[pri:17, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentWithoutZip" duration-ms="25861" started-at="2019-08-29T14:26:05Z" finished-at="2019-08-29T14:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentWithoutZip -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="21959" started-at="2019-08-29T14:26:31Z" finished-at="2019-08-29T14:26:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddShipmentWithoutAddress()[pri:18, instance:Tests.TestAddShipment@5e5792a0]" name="testAddShipmentWithoutAddress" duration-ms="21371" started-at="2019-08-29T14:26:53Z" finished-at="2019-08-29T14:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddShipmentWithoutAddress -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="13789" started-at="2019-08-29T14:27:15Z" finished-at="2019-08-29T14:27:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUserIsAbleToAddRecipientInfoFromContacts()[pri:19, instance:Tests.TestAddShipment@5e5792a0]" name="testUserIsAbleToAddRecipientInfoFromContacts" duration-ms="23585" started-at="2019-08-29T14:27:28Z" finished-at="2019-08-29T14:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserIsAbleToAddRecipientInfoFromContacts -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="17414" started-at="2019-08-29T14:27:52Z" finished-at="2019-08-29T14:28:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUserIsAbleToRemoveAddedRecipientInfo()[pri:20, instance:Tests.TestAddShipment@5e5792a0]" name="testUserIsAbleToRemoveAddedRecipientInfo" duration-ms="22434" started-at="2019-08-29T14:28:09Z" finished-at="2019-08-29T14:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserIsAbleToRemoveAddedRecipientInfo -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="12897" started-at="2019-08-29T14:28:32Z" finished-at="2019-08-29T14:28:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testRecipientInfoNotSavedWithoutName()[pri:21, instance:Tests.TestAddShipment@5e5792a0]" name="testRecipientInfoNotSavedWithoutName" duration-ms="20423" started-at="2019-08-29T14:28:45Z" finished-at="2019-08-29T14:29:05Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='AA - Armed Forces Americas']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54289}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb10864bb2e52397ae37b0aa7960c697
+*** Element info: {Using=xpath, value=//div[text()='AA - Armed Forces Americas']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='AA - Armed Forces Americas']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54289}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cb10864bb2e52397ae37b0aa7960c697
+*** Element info: {Using=xpath, value=//div[text()='AA - Armed Forces Americas']}
+	at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Pages.AddShipmentPage.selectState(AddShipmentPage.java:220)
+	at Tests.TestAddShipment.testRecipientInfoNotSavedWithoutName(TestAddShipment.java:400)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRecipientInfoNotSavedWithoutName -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="12454" started-at="2019-08-29T14:29:05Z" finished-at="2019-08-29T14:29:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testRateCalcWithoutSizeAndWeightDetails()[pri:22, instance:Tests.TestAddShipment@5e5792a0]" name="testRateCalcWithoutSizeAndWeightDetails" duration-ms="17212" started-at="2019-08-29T14:29:18Z" finished-at="2019-08-29T14:29:35Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Please correct the fields in red']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54367}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e286231a0a19860eaa767b801c1e7ead
+*** Element info: {Using=xpath, value=//span[text()='Please correct the fields in red']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Please correct the fields in red']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54367}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e286231a0a19860eaa767b801c1e7ead
+*** Element info: {Using=xpath, value=//span[text()='Please correct the fields in red']}
+	at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Tests.TestAddShipment.testRateCalcWithoutSizeAndWeightDetails(TestAddShipment.java:420)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRateCalcWithoutSizeAndWeightDetails -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="14362" started-at="2019-08-29T14:29:35Z" finished-at="2019-08-29T14:29:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testValidAddShipment()[pri:23, instance:Tests.TestAddShipment@5e5792a0]" name="testValidAddShipment" duration-ms="25519" started-at="2019-08-29T14:29:49Z" finished-at="2019-08-29T14:30:15Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='AA - Armed Forces Americas']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ddfc44757be8f3aafe641e9597db9aac
+*** Element info: {Using=xpath, value=//div[text()='AA - Armed Forces Americas']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='AA - Armed Forces Americas']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ddfc44757be8f3aafe641e9597db9aac
+*** Element info: {Using=xpath, value=//div[text()='AA - Armed Forces Americas']}
+	at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Pages.AddShipmentPage.selectState(AddShipmentPage.java:220)
+	at Tests.TestAddShipment.testValidAddShipment(TestAddShipment.java:457)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidAddShipment -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="21488" started-at="2019-08-29T14:30:15Z" finished-at="2019-08-29T14:30:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testPrinterOptionsDisplayed()[pri:24, instance:Tests.TestAddShipment@5e5792a0]" name="testPrinterOptionsDisplayed" duration-ms="10960" started-at="2019-08-29T14:30:36Z" finished-at="2019-08-29T14:30:47Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='PrinterOptions']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5f2e68bb0438ebcbe8e4869065391f62
+*** Element info: {Using=xpath, value=//a[@class='PrinterOptions']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='PrinterOptions']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5f2e68bb0438ebcbe8e4869065391f62
+*** Element info: {Using=xpath, value=//a[@class='PrinterOptions']}
+	at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Tests.TestAddShipment.testPrinterOptionsDisplayed(TestAddShipment.java:493)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrinterOptionsDisplayed -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="18902" started-at="2019-08-29T14:30:47Z" finished-at="2019-08-29T14:31:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPrinterOptionsFunctional()[pri:25, instance:Tests.TestAddShipment@5e5792a0]" name="testPrinterOptionsFunctional" duration-ms="24754" started-at="2019-08-29T14:31:06Z" finished-at="2019-08-29T14:31:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrinterOptionsFunctional -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:Tests.TestAddShipment@5e5792a0]" name="setUp" is-config="true" duration-ms="21691" started-at="2019-08-29T14:31:31Z" finished-at="2019-08-29T14:31:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaranil@csgroupchd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pentium@951@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testPrintetSetUPSaved()[pri:26, instance:Tests.TestAddShipment@5e5792a0]" name="testPrintetSetUPSaved" duration-ms="13361" started-at="2019-08-29T14:31:53Z" finished-at="2019-08-29T14:32:06Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Successfully Saved Printer Configurations']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8ae3c5b8e50631a56530b2aacd12089d
+*** Element info: {Using=xpath, value=//span[text()='Successfully Saved Printer Configurations']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Successfully Saved Printer Configurations']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.138', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:54841}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8ae3c5b8e50631a56530b2aacd12089d
+*** Element info: {Using=xpath, value=//span[text()='Successfully Saved Printer Configurations']}
+	at sun.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Tests.TestAddShipment.testPrintetSetUPSaved(TestAddShipment.java:520)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrintetSetUPSaved -->
+      </class> <!-- Tests.TestAddShipment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

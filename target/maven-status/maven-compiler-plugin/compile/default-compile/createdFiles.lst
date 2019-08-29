@@ -1,0 +1,5 @@
+Pages\Forgotpasswordpage.class
+Helper\Wait.class
+Pages\Createshipcaddieaccountpage.class
+Testbase\Base.class
+Pages\Loginpage.class

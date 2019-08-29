@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 30, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 739.578 s <<< FAILURE! - in TestSuite
+testWithoutFirstName(Tests.Testcreateshipcaddieaccount)  Time elapsed: 12.848 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='nameLast']' (tried for 5 second(s) with 500 milliseconds interval)
+	at Tests.Testcreateshipcaddieaccount.testWithoutFirstName(Testcreateshipcaddieaccount.java:61)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='nameLast']"}
+  (Session info: chrome=75.0.3770.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.90 (a6dcaf7e3ec6f..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51846}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3ec40070809f37260b17a1538144d7d9
+*** Element info: {Using=xpath, value=//input[@name='nameLast']}
+	at Tests.Testcreateshipcaddieaccount.testWithoutFirstName(Testcreateshipcaddieaccount.java:61)
+
+testWithInvalidFirstName(Tests.Testcreateshipcaddieaccount)  Time elapsed: 10.029 s  <<< FAILURE!
+org.testng.internal.thread.ThreadTimeoutException: Method Tests.Testcreateshipcaddieaccount.testWithInvalidFirstName() didn't finish within the time-out 10000
+	at Tests.Testcreateshipcaddieaccount.testWithInvalidFirstName(Testcreateshipcaddieaccount.java:245)
+
+testWithInvalidPhone(Tests.Testcreateshipcaddieaccount)  Time elapsed: 13.832 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='nameFirst']' (tried for 5 second(s) with 500 milliseconds interval)
+	at Tests.Testcreateshipcaddieaccount.testWithInvalidPhone(Testcreateshipcaddieaccount.java:318)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='nameFirst']"}
+  (Session info: chrome=75.0.3770.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.90 (a6dcaf7e3ec6f..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52304}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e2a1a7f807c275387ef4f0d609623fba
+*** Element info: {Using=xpath, value=//input[@name='nameFirst']}
+	at Tests.Testcreateshipcaddieaccount.testWithInvalidPhone(Testcreateshipcaddieaccount.java:318)
+
+testTermsOfServiceLinkWorking(Tests.Testcreateshipcaddieaccount)  Time elapsed: 39.965 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/info/termsofservice']' (tried for 5 second(s) with 500 milliseconds interval)
+	at Tests.Testcreateshipcaddieaccount.testTermsOfServiceLinkWorking(Testcreateshipcaddieaccount.java:399)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='/info/termsofservice']"}
+  (Session info: chrome=75.0.3770.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.90 (a6dcaf7e3ec6f..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52488}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 95f6d57fc2ec81bc336147aeb8a41c38
+*** Element info: {Using=xpath, value=//a[@href='/info/termsofservice']}
+	at Tests.Testcreateshipcaddieaccount.testTermsOfServiceLinkWorking(Testcreateshipcaddieaccount.java:399)
+

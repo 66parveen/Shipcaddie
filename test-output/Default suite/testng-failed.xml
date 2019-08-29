@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Tests.TestImportOrders">
+        <methods>
+          <include name="selectOrderDate"/>
+          <include name="mapperName"/>
+          <include name="orders"/>
+          <include name="selectAttentionOf"/>
+          <include name="selectAddressLine2"/>
+          <include name="selectPhoneNumber"/>
+          <include name="selectCountryCode"/>
+          <include name="selectItemName"/>
+          <include name="selectPostalCode"/>
+          <include name="selectProvince"/>
+          <include name="selectItemQuantity"/>
+          <include name="importOrders"/>
+          <include name="selectOrderNumber"/>
+          <include name="saveCSVMapper"/>
+          <include name="selectItemSKU"/>
+          <include name="selectCity"/>
+          <include name="selectAddressLine1"/>
+          <include name="importOrders2"/>
+          <include name="selectCompany"/>
+          <include name="selectEmail"/>
+          <include name="chooseCSVFile"/>
+        </methods>
+      </class> <!-- Tests.TestImportOrders -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

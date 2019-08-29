@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+   
+<listeners>
+		<listener class-name="Resources.ExtentReportListener" />
+</listeners>
+  
+ 
+ <parameter name="firstNameValue" value="Manish"/>
+ <parameter name="lastNameValue" value="Singh"/>
+  <parameter name="emailValue" value="manishgmail.com"/>
+  <parameter name="passwordValue" value="Manish123"/>
+  <parameter name="confirmPasswordValue" value="Manish123"/>
+   <parameter name="companyValue" value="CSS"/>
+   <parameter name="phoneValue" value="9865236"/>
+   <parameter name="invalidFirstNameValue" value="K"/>
+   <parameter name="invalidLastNameValue" value="D"/> 
+    <parameter name="invalidEmailValue" value="manishgmail.com"/>  
+    <parameter name="invalidPasswordValue" value="kabi"/>  
+    <parameter name="invalidConfirmPasswordValue" value="kabi"/>
+    <parameter name="invalidPhoneValue" value="986"/>
+    <parameter name="existEmailValue" value="kumaranil@csgroupchd.com"/>
+  
+  
+  
+<parameter name="loginEmailValue" value="kumaranil@csgroupchd.com"/>
+<parameter name="loginPasswordValue" value="Pentium@951@"/>
+<parameter name="invalidLoginEmail" value="kumaranilcsgroupchd.com"/>
+<parameter name="loginInvalidPassword" value="Pentium@951"/>
+
+
+
+
+  <test name="Test">
+  
+  <classes>
+<class name="Tests.TestLogin"/>
+  </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

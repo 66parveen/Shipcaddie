@@ -1,0 +1,4 @@
+# Created at 2019-07-10T13:19:37.851
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ParveenData\ShipCaddieA\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

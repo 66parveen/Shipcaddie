@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="Tests.TestAddShipment">
+        <methods>
+          <include name="testAddShipmentWithoutCity"/>
+          <include name="testRateCalWithOverWeight"/>
+          <include name="testAddShipmentWithValidReferenceNoTC17"/>
+          <include name="testRateCalcWithoutSizeAndWeightDetails"/>
+          <include name="testValidAddShipment"/>
+          <include name="testAddShipmentWithInvalidReferenceNoTC16"/>
+          <include name="testAddShipmentWithoutState"/>
+          <include name="testPrinterOptionsFunctional"/>
+          <include name="testWeightLimitByDefault"/>
+          <include name="testPrintetSetUPSaved"/>
+          <include name="testUserIsAbleToRemoveAddedRecipientInfo"/>
+          <include name="testUserIsAbleToAddRecipientInfoFromContacts"/>
+          <include name="testAddShipmentWithoutZip"/>
+          <include name="testValidationOFPrintButtonWithoutDetailsTC20"/>
+          <include name="testAddShipmentWithoutAddress"/>
+          <include name="testBlindShipIconFunctionalTC19"/>
+          <include name="blindShipIconDisplayedTC18"/>
+          <include name="testAddShipmentWithoutDetails"/>
+          <include name="testRateCalWithoutWeight"/>
+          <include name="testRateCalWithoutWeightAndDimensions"/>
+          <include name="testAddShipmentIconFunctionalTC15"/>
+          <include name="testRecipientInfoNotSavedWithoutName"/>
+          <include name="testValidationOFSaveForLaterTC21"/>
+          <include name="testShippingRateCalIconDisplayedOnAddShipement"/>
+          <include name="testAddShipmentButtonIsDisplayedTC14"/>
+          <include name="testRateCalWithoutSize"/>
+          <include name="testPrinterOptionsDisplayed"/>
+        </methods>
+      </class> <!-- Tests.TestAddShipment -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

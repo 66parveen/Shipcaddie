@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="4" ignored="0" total="30" passed="26">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="738451" started-at="2019-07-10T07:49:38Z" finished-at="2019-07-10T08:01:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="738451" started-at="2019-07-10T07:49:38Z" finished-at="2019-07-10T08:01:57Z">
+      <class name="Tests.Testlogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testlogin@17550481]" name="setUp" is-config="true" duration-ms="19893" started-at="2019-07-10T07:58:42Z" finished-at="2019-07-10T07:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWithoutDetails()[pri:21, instance:Tests.Testlogin@17550481]" name="testLoginWithoutDetails" duration-ms="777" started-at="2019-07-10T07:59:02Z" finished-at="2019-07-10T07:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithoutDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testlogin@17550481]" name="tearDown" is-config="true" duration-ms="2302" started-at="2019-07-10T07:59:03Z" finished-at="2019-07-10T07:59:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testlogin@17550481]" name="setUp" is-config="true" duration-ms="15636" started-at="2019-07-10T07:59:05Z" finished-at="2019-07-10T07:59:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWithoutEmail()[pri:22, instance:Tests.Testlogin@17550481]" name="testLoginWithoutEmail" duration-ms="1182" started-at="2019-07-10T07:59:21Z" finished-at="2019-07-10T07:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithoutEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testlogin@17550481]" name="tearDown" is-config="true" duration-ms="2112" started-at="2019-07-10T07:59:22Z" finished-at="2019-07-10T07:59:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testlogin@17550481]" name="setUp" is-config="true" duration-ms="16310" started-at="2019-07-10T07:59:24Z" finished-at="2019-07-10T07:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWithoutPassword()[pri:23, instance:Tests.Testlogin@17550481]" name="testLoginWithoutPassword" duration-ms="1311" started-at="2019-07-10T07:59:41Z" finished-at="2019-07-10T07:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithoutPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testlogin@17550481]" name="tearDown" is-config="true" duration-ms="2532" started-at="2019-07-10T07:59:42Z" finished-at="2019-07-10T07:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testlogin@17550481]" name="setUp" is-config="true" duration-ms="14009" started-at="2019-07-10T07:59:44Z" finished-at="2019-07-10T07:59:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWithInvalidEmail()[pri:24, instance:Tests.Testlogin@17550481]" name="testLoginWithInvalidEmail" duration-ms="2999" started-at="2019-07-10T07:59:58Z" finished-at="2019-07-10T08:00:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithInvalidEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testlogin@17550481]" name="tearDown" is-config="true" duration-ms="157" started-at="2019-07-10T08:00:01Z" finished-at="2019-07-10T08:00:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testlogin@17550481]" name="setUp" is-config="true" duration-ms="19818" started-at="2019-07-10T08:00:02Z" finished-at="2019-07-10T08:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWithInvalidPassword()[pri:25, instance:Tests.Testlogin@17550481]" name="testLoginWithInvalidPassword" duration-ms="2959" started-at="2019-07-10T08:00:21Z" finished-at="2019-07-10T08:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithInvalidPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testlogin@17550481]" name="tearDown" is-config="true" duration-ms="219" started-at="2019-07-10T08:00:24Z" finished-at="2019-07-10T08:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testlogin@17550481]" name="setUp" is-config="true" duration-ms="18340" started-at="2019-07-10T08:00:25Z" finished-at="2019-07-10T08:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWithValidDetails()[pri:26, instance:Tests.Testlogin@17550481]" name="testLoginWithValidDetails" duration-ms="4324" started-at="2019-07-10T08:00:43Z" finished-at="2019-07-10T08:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithValidDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testlogin@17550481]" name="tearDown" is-config="true" duration-ms="189" started-at="2019-07-10T08:00:47Z" finished-at="2019-07-10T08:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.Testlogin -->
+      <class name="Tests.Testforgotpassword">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testforgotpassword@735f7ae5]" name="setUp" is-config="true" duration-ms="13723" started-at="2019-07-10T08:00:47Z" finished-at="2019-07-10T08:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForgotPasswordLinkWorking()[pri:27, instance:Tests.Testforgotpassword@735f7ae5]" name="testForgotPasswordLinkWorking" duration-ms="434" started-at="2019-07-10T08:01:01Z" finished-at="2019-07-10T08:01:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPasswordLinkWorking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testforgotpassword@735f7ae5]" name="tearDown" is-config="true" duration-ms="2265" started-at="2019-07-10T08:01:02Z" finished-at="2019-07-10T08:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testforgotpassword@735f7ae5]" name="setUp" is-config="true" duration-ms="14145" started-at="2019-07-10T08:01:04Z" finished-at="2019-07-10T08:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForgotPasswordWithoutEmail()[pri:28, instance:Tests.Testforgotpassword@735f7ae5]" name="testForgotPasswordWithoutEmail" duration-ms="1129" started-at="2019-07-10T08:01:18Z" finished-at="2019-07-10T08:01:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPasswordWithoutEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testforgotpassword@735f7ae5]" name="tearDown" is-config="true" duration-ms="2074" started-at="2019-07-10T08:01:19Z" finished-at="2019-07-10T08:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testforgotpassword@735f7ae5]" name="setUp" is-config="true" duration-ms="14329" started-at="2019-07-10T08:01:21Z" finished-at="2019-07-10T08:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForgotPasswordWithInvalidEmail()[pri:29, instance:Tests.Testforgotpassword@735f7ae5]" name="testForgotPasswordWithInvalidEmail" duration-ms="1640" started-at="2019-07-10T08:01:36Z" finished-at="2019-07-10T08:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPasswordWithInvalidEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testforgotpassword@735f7ae5]" name="tearDown" is-config="true" duration-ms="375" started-at="2019-07-10T08:01:37Z" finished-at="2019-07-10T08:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testforgotpassword@735f7ae5]" name="setUp" is-config="true" duration-ms="14197" started-at="2019-07-10T08:01:38Z" finished-at="2019-07-10T08:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForgotPasswordWithValidEmail()[pri:30, instance:Tests.Testforgotpassword@735f7ae5]" name="testForgotPasswordWithValidEmail" duration-ms="4781" started-at="2019-07-10T08:01:52Z" finished-at="2019-07-10T08:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPasswordWithValidEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testforgotpassword@735f7ae5]" name="tearDown" is-config="true" duration-ms="312" started-at="2019-07-10T08:01:57Z" finished-at="2019-07-10T08:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.Testforgotpassword -->
+      <class name="Tests.Testcreateshipcaddieaccount">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="14360" started-at="2019-07-10T07:49:38Z" finished-at="2019-07-10T07:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCreateNewAccountPageDisplayed()[pri:1, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testCreateNewAccountPageDisplayed" duration-ms="5030" started-at="2019-07-10T07:49:53Z" finished-at="2019-07-10T07:49:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateNewAccountPageDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="301" started-at="2019-07-10T07:49:58Z" finished-at="2019-07-10T07:49:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="13727" started-at="2019-07-10T07:49:58Z" finished-at="2019-07-10T07:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithoutDetails()[pri:2, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutDetails" duration-ms="5550" started-at="2019-07-10T07:50:12Z" finished-at="2019-07-10T07:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="234" started-at="2019-07-10T07:50:17Z" finished-at="2019-07-10T07:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="11340" started-at="2019-07-10T07:50:18Z" finished-at="2019-07-10T07:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testWithoutFirstName()[pri:3, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutFirstName" duration-ms="12840" started-at="2019-07-10T07:50:29Z" finished-at="2019-07-10T07:50:42Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='nameLast']' (tried for 5 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='nameLast']' (tried for 5 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at Helper.Wait.sendKeys(Wait.java:13)
+at Pages.Createshipcaddieaccountpage.enterLastName(Createshipcaddieaccountpage.java:64)
+at Tests.Testcreateshipcaddieaccount.testWithoutFirstName(Testcreateshipcaddieaccount.java:61)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='nameLast']"}
+  (Session info: chrome=75.0.3770.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.90 (a6dcaf7e3ec6f..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51846}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3ec40070809f37260b17a1538144d7d9
+*** Element info: {Using=xpath, value=//input[@name='nameLast']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy7.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 32 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutFirstName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="2124" started-at="2019-07-10T07:50:42Z" finished-at="2019-07-10T07:50:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="26339" started-at="2019-07-10T07:50:44Z" finished-at="2019-07-10T07:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithoutLastName()[pri:4, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutLastName" duration-ms="8331" started-at="2019-07-10T07:51:10Z" finished-at="2019-07-10T07:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutLastName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="2149" started-at="2019-07-10T07:51:19Z" finished-at="2019-07-10T07:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="11069" started-at="2019-07-10T07:51:21Z" finished-at="2019-07-10T07:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithoutEmail()[pri:5, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutEmail" duration-ms="6871" started-at="2019-07-10T07:51:32Z" finished-at="2019-07-10T07:51:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="2126" started-at="2019-07-10T07:51:39Z" finished-at="2019-07-10T07:51:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="10655" started-at="2019-07-10T07:51:41Z" finished-at="2019-07-10T07:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithoutPassword()[pri:6, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutPassword" duration-ms="6963" started-at="2019-07-10T07:51:51Z" finished-at="2019-07-10T07:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="194" started-at="2019-07-10T07:51:58Z" finished-at="2019-07-10T07:51:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="16016" started-at="2019-07-10T07:51:59Z" finished-at="2019-07-10T07:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithoutConfirmPassword()[pri:7, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutConfirmPassword" duration-ms="8506" started-at="2019-07-10T07:52:15Z" finished-at="2019-07-10T07:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutConfirmPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="246" started-at="2019-07-10T07:52:23Z" finished-at="2019-07-10T07:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="14092" started-at="2019-07-10T07:52:23Z" finished-at="2019-07-10T07:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithoutCheckTermsConditions()[pri:8, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutCheckTermsConditions" duration-ms="10192" started-at="2019-07-10T07:52:38Z" finished-at="2019-07-10T07:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutCheckTermsConditions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="220" started-at="2019-07-10T07:52:48Z" finished-at="2019-07-10T07:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="13011" started-at="2019-07-10T07:52:48Z" finished-at="2019-07-10T07:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithoutCompany()[pri:9, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutCompany" duration-ms="7781" started-at="2019-07-10T07:53:01Z" finished-at="2019-07-10T07:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutCompany -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="189" started-at="2019-07-10T07:53:09Z" finished-at="2019-07-10T07:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="11059" started-at="2019-07-10T07:53:09Z" finished-at="2019-07-10T07:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithoutPhone()[pri:10, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithoutPhone" duration-ms="6882" started-at="2019-07-10T07:53:20Z" finished-at="2019-07-10T07:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithoutPhone -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="2190" started-at="2019-07-10T07:53:27Z" finished-at="2019-07-10T07:53:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="13709" started-at="2019-07-10T07:53:29Z" finished-at="2019-07-10T07:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testWithInvalidFirstName()[pri:11, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithInvalidFirstName" duration-ms="10028" started-at="2019-07-10T07:53:43Z" finished-at="2019-07-10T07:53:53Z">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method Tests.Testcreateshipcaddieaccount.testWithInvalidFirstName() didn't finish within the time-out 10000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method Tests.Testcreateshipcaddieaccount.testWithInvalidFirstName() didn't finish within the time-out 10000
+at java.net.SocketInputStream.socketRead0(Native Method)
+at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+at java.net.SocketInputStream.read(SocketInputStream.java:171)
+at java.net.SocketInputStream.read(SocketInputStream.java:141)
+at okio.Okio$2.read(Okio.java:140)
+at okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
+at okio.RealBufferedSource.indexOf(RealBufferedSource.java:355)
+at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:227)
+at okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:215)
+at okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:189)
+at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:88)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+at org.openqa.selenium.remote.internal.OkHttpClient$Factory$1.lambda$createClient$1(OkHttpClient.java:152)
+at org.openqa.selenium.remote.internal.OkHttpClient$Factory$1$$Lambda$1/838411509.intercept(Unknown Source)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+at okhttp3.RealCall.execute(RealCall.java:77)
+at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:155)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy7.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+at Helper.Wait.sendKeys(Wait.java:13)
+at Pages.Createshipcaddieaccountpage.enterInvalidFirstName(Createshipcaddieaccountpage.java:93)
+at Tests.Testcreateshipcaddieaccount.testWithInvalidFirstName(Testcreateshipcaddieaccount.java:245)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:54)
+at org.testng.internal.InvokeMethodRunnable.run(InvokeMethodRunnable.java:44)
+at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithInvalidFirstName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="543" started-at="2019-07-10T07:53:53Z" finished-at="2019-07-10T07:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="11941" started-at="2019-07-10T07:53:53Z" finished-at="2019-07-10T07:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithInvalidLastName()[pri:12, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithInvalidLastName" duration-ms="9066" started-at="2019-07-10T07:54:05Z" finished-at="2019-07-10T07:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithInvalidLastName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="170" started-at="2019-07-10T07:54:14Z" finished-at="2019-07-10T07:54:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="14619" started-at="2019-07-10T07:54:15Z" finished-at="2019-07-10T07:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithInvalidEmail()[pri:13, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithInvalidEmail" duration-ms="6882" started-at="2019-07-10T07:54:29Z" finished-at="2019-07-10T07:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithInvalidEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="294" started-at="2019-07-10T07:54:36Z" finished-at="2019-07-10T07:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="24361" started-at="2019-07-10T07:54:36Z" finished-at="2019-07-10T07:55:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testWithInvalidPhone()[pri:14, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithInvalidPhone" duration-ms="13830" started-at="2019-07-10T07:55:01Z" finished-at="2019-07-10T07:55:14Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='nameFirst']' (tried for 5 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='nameFirst']' (tried for 5 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at Helper.Wait.sendKeys(Wait.java:13)
+at Pages.Createshipcaddieaccountpage.enterFirstName(Createshipcaddieaccountpage.java:60)
+at Tests.Testcreateshipcaddieaccount.testWithInvalidPhone(Testcreateshipcaddieaccount.java:318)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='nameFirst']"}
+  (Session info: chrome=75.0.3770.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.90 (a6dcaf7e3ec6f..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52304}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e2a1a7f807c275387ef4f0d609623fba
+*** Element info: {Using=xpath, value=//input[@name='nameFirst']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy7.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 32 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithInvalidPhone -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="202" started-at="2019-07-10T07:55:14Z" finished-at="2019-07-10T07:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="25475" started-at="2019-07-10T07:55:15Z" finished-at="2019-07-10T07:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithInvalidPassword()[pri:15, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testWithInvalidPassword" duration-ms="7429" started-at="2019-07-10T07:55:40Z" finished-at="2019-07-10T07:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithInvalidPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="230" started-at="2019-07-10T07:55:48Z" finished-at="2019-07-10T07:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="20497" started-at="2019-07-10T07:55:48Z" finished-at="2019-07-10T07:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginInInsteadLinkWorking()[pri:16, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testLoginInInsteadLinkWorking" duration-ms="16097" started-at="2019-07-10T07:56:08Z" finished-at="2019-07-10T07:56:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginInInsteadLinkWorking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="194" started-at="2019-07-10T07:56:24Z" finished-at="2019-07-10T07:56:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="24235" started-at="2019-07-10T07:56:25Z" finished-at="2019-07-10T07:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testInformationIconIsDisplayed()[pri:17, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testInformationIconIsDisplayed" duration-ms="6473" started-at="2019-07-10T07:56:49Z" finished-at="2019-07-10T07:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInformationIconIsDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="253" started-at="2019-07-10T07:56:55Z" finished-at="2019-07-10T07:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="5146" started-at="2019-07-10T07:56:56Z" finished-at="2019-07-10T07:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testTermsOfServiceLinkWorking()[pri:18, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testTermsOfServiceLinkWorking" duration-ms="39964" started-at="2019-07-10T07:57:01Z" finished-at="2019-07-10T07:57:41Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/info/termsofservice']' (tried for 5 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/info/termsofservice']' (tried for 5 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at Helper.Wait.clickOn(Wait.java:20)
+at Pages.Createshipcaddieaccountpage.clickOnTermsServiceLink(Createshipcaddieaccountpage.java:134)
+at Tests.Testcreateshipcaddieaccount.testTermsOfServiceLinkWorking(Testcreateshipcaddieaccount.java:399)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='/info/termsofservice']"}
+  (Session info: chrome=75.0.3770.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CSPC202', ip: '192.168.12.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 75.0.3770.100, chrome: {chromedriverVersion: 75.0.3770.90 (a6dcaf7e3ec6f..., userDataDir: C:\Users\QA\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52488}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 95f6d57fc2ec81bc336147aeb8a41c38
+*** Element info: {Using=xpath, value=//a[@href='/info/termsofservice']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy7.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 32 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTermsOfServiceLinkWorking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="153" started-at="2019-07-10T07:57:41Z" finished-at="2019-07-10T07:57:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="12081" started-at="2019-07-10T07:57:41Z" finished-at="2019-07-10T07:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPrivacyLinkWorking()[pri:19, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testPrivacyLinkWorking" duration-ms="12227" started-at="2019-07-10T07:57:53Z" finished-at="2019-07-10T07:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrivacyLinkWorking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="64" started-at="2019-07-10T07:58:05Z" finished-at="2019-07-10T07:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="setUp" is-config="true" duration-ms="24531" started-at="2019-07-10T07:58:05Z" finished-at="2019-07-10T07:58:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCreateAccountWithAlreadyExistEmail()[pri:20, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="testCreateAccountWithAlreadyExistEmail" duration-ms="9932" started-at="2019-07-10T07:58:30Z" finished-at="2019-07-10T07:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccountWithAlreadyExistEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Testcreateshipcaddieaccount@783e6358]" name="tearDown" is-config="true" duration-ms="2661" started-at="2019-07-10T07:58:40Z" finished-at="2019-07-10T07:58:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.Testcreateshipcaddieaccount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
